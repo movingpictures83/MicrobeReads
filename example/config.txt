@@ -1,0 +1,2 @@
+Prefix plugins/MicrobeReads/example/
+Plugin MicrobeReads inputfile parameters.microbereads.fq1.txt outputfile ./

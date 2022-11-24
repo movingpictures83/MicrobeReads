@@ -1,0 +1,6 @@
+sample_name	small1_1
+fq	small1_1.fq
+kraken_report	small1.kraken.report.txt
+mpa_report	small1.kraken.report.mpa.txt
+keep_original	T
+ntaxid	7000
